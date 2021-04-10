@@ -23,7 +23,7 @@ python-dateutil==2.8.0
 PyYAML==3.13
 redis==2.10.6
 redpackets==1.1.0
-requests==2.9.1
+requests==2.20.0
 rsa==4.1
 shellescape==3.4.1
 six==1.10.0
